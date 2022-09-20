@@ -1,0 +1,1 @@
+sbt -J-Xmx5G "runMain NextiaJD_evaluation -d /data/nextiaJD_datasets/testbedS/datasetInformation_testbedS.csv -p /data/nextiaJD_datasets/testbedS/datasets -g /data/nextiaJD_datasets/testbedS/groundTruth_testbedS.csv -o /data/nextiaJD_results/testbedS/nextiaJD" -q querybyattribute
