@@ -1,0 +1,4 @@
+python LSHEnsemble_comparison.py \
+--datasetInfo /data/nextiaJD_datasets/testbedS/datasetInformation_testbedS.csv \
+--datasetsDir /data/nextiaJD_datasets/testbedS/datasets \
+--output /data/nextiaJD_results/testbedS/lsh_ensemble
